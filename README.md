@@ -1,5 +1,5 @@
-<H3>Name:Kirupanandhan T</H3>
-<H3>Reg No:212221230051</H3>
+<H3>Name:JANANI R</H3>
+<H3>Reg No:212221230039</H3>
 <H3>Experiment 2</H3>
 <H3>Date:</H3>
 <h1 align =center>Implementation of Exact Inference Method of Bayesian Network</h1>
@@ -39,7 +39,8 @@ print(result)
 ```
 
 ## Output :
-![image](https://github.com/Kirupanandhan/Ex2---AAI/assets/94386222/b1a8a6a1-ce39-4ce0-a78b-20e7ef7f9395)
+
+![output](https://github.com/Janani-2003/Ex2---AAI/assets/94288340/52b041d6-b27f-4ad7-8a17-e0d283ff6559)
 
 
 ## Result :
